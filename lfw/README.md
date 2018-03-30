@@ -1,0 +1,1 @@
+Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in this folder inside the repo. (At location:  `path/to/dog-project/lfw`.)
