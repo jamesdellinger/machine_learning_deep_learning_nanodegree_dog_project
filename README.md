@@ -6,6 +6,7 @@
 
 # Convolutional Neural Network Classifier for dog breeds
 ## Machine Learning Engineer Nanodegree
+## Topic: Deep Learning
 
 *Estimate a dog's breed from an image.*
 
