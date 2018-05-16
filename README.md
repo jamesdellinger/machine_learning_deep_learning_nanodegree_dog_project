@@ -5,6 +5,7 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 # Convolutional Neural Network Classifier for dog breeds
+## Machine Learning Engineer Nanodegree
 
 *Estimate a dog's breed from an image.*
 
