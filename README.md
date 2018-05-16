@@ -4,10 +4,19 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+# Convolutional Neural Network Classifier for dog breeds
+
+*Estimate a dog's breed from an image.*
+
+[ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.ipynb)
+
+[html version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/report.html)
+
+##
 
 ## Project Overview
 
-Welcome to the Convolutional Neural Networks (CNN) project in the AI Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
+Welcome to the Convolutional Neural Networks (CNN) project in the Machine Learning Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
 ![Sample Output][image1]
 
@@ -18,14 +27,14 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 ### Instructions
 
 1. Clone the repository and navigate to the downloaded folder.
-```	
+```
 git clone https://github.com/udacity/dog-project.git
 cd dog-project
 ```
 
-2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`. 
+2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/dogImages`.
 
-3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
+3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder.
 
 4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset.  Place it in the repo, at location `path/to/dog-project/bottleneck_features`.
 
@@ -33,12 +42,12 @@ cd dog-project
 
 6. **If you are running the project on your local machine (and not using AWS)**, create (and activate) a new environment.
 
-	- __Linux__ (to install with __GPU support__, change `requirements/dog-linux.yml` to `requirements/dog-linux-gpu.yml`): 
+	- __Linux__ (to install with __GPU support__, change `requirements/dog-linux.yml` to `requirements/dog-linux-gpu.yml`):
 	```
 	conda env create -f requirements/dog-linux.yml
 	source activate dog-project
 	```  
-	- __Mac__ (to install with __GPU support__, change `requirements/dog-mac.yml` to `requirements/dog-mac-gpu.yml`): 
+	- __Mac__ (to install with __GPU support__, change `requirements/dog-mac.yml` to `requirements/dog-mac-gpu.yml`):
 	```
 	conda env create -f requirements/dog-mac.yml
 	source activate dog-project
@@ -55,7 +64,7 @@ cd dog-project
 
 7. **If you are running the project on your local machine (and not using AWS)** and Step 6 throws errors, try this __alternative__ step to create your environment.
 
-	- __Linux__ or __Mac__ (to install with __GPU support__, change `requirements/requirements.txt` to `requirements/requirements-gpu.txt`): 
+	- __Linux__ or __Mac__ (to install with __GPU support__, change `requirements/requirements.txt` to `requirements/requirements-gpu.txt`):
 	```
 	conda create --name dog-project python=3.5
 	source activate dog-project
@@ -71,24 +80,24 @@ cd dog-project
 	activate dog-project
 	pip install -r requirements/requirements.txt
 	```
-	
+
 8. **If you are using AWS**, install Tensorflow and other environment packages using requirements-gpu.txt:
 ```
 sudo python3 -m pip install -r requirements/requirements-gpu.txt
 ```
-	
+
 9. Verify that the Keras backend is set to Tensorflow. If necessary, switch [Keras backend](https://keras.io/backend/) to TensorFlow.
-	- __Linux__ or __Mac__: 
+	- __Linux__ or __Mac__:
 		```
 		KERAS_BACKEND=tensorflow python -c "from keras import backend"
 		```
-	- __Windows__: 
+	- __Windows__:
 		```
 		set KERAS_BACKEND=tensorflow
 		python -c "from keras import backend"
 		```
 
-10. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `dog-project` environment. 
+10. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `dog-project` environment.
 ```
 python3 -m ipykernel install --user --name dog-project --display-name "dog-project"
 ```
