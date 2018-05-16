@@ -8,11 +8,11 @@
 
 *Estimate a dog's breed from an image.*
 
+### My completed project is here:
+
 [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.ipynb)
 
 [html version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/report.html)
-
-##
 
 ## Project Overview
 
