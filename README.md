@@ -14,6 +14,8 @@
 
 [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.ipynb)
 
+[pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.pdf)
+
 [html version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/report.html)
 
 ## Project Overview
