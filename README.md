@@ -17,10 +17,10 @@
 * I explored several state-of-the-art CNN models for image classification, ultimately using transfer learning to build my own classifier for dog images on top of a pre-trained [Inception v3](https://arxiv.org/abs/1512.00567) bottleneck.
 * Given an image of a dog, my algorithm identifies an estimate of its breed.
 
-    <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/sample_dog_output.png" height="100">
+    <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/sample_dog_output.png" height="150">
 * If supplied an image of a human, my code infers the most nearly resembling dog breed.
 
-    <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/sample_human_output.png" height="100">
+    <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/sample_human_output.png" height="150">
 
 ### Concepts:
 
