@@ -1,28 +1,32 @@
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
-[image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
-[image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
+[image2]: ./images/sample_cnn.png "Sample CNN"
 
-# Convolutional Neural Network Classifier for dog breeds
-## Machine Learning Engineer Nanodegree
-## Topic: Deep Learning
+# Project: Convolutional Neural Network Classifier for dog breeds
+*Guess a dog's breed based on an image.*
+### For Udacity's Machine Learning Engineer and Deep Learning Nanodegrees
+<img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/mlndlogo.png" height="140">     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dlndlogo.png" height="140">
 
-*Estimate a dog's breed from an image.*
+### Topic: Deep Learning
+
+### Overview:
+
+*
+
+### Concepts:
+
+*
 
 ### My completed project is here:
 
-[ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.ipynb)
-
-[pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.pdf)
-
-[html version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/report.html)
+* [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/report.html) / [pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.pdf)
 
 ### Project Grading and Evaluation:
 
-[Project Review](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_review.pdf)
+* [Project Review](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_review.pdf)
 
-[Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_grading_rubric.pdf)
+* [Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_grading_rubric.pdf)
 
 ## Project Overview
 
