@@ -15,8 +15,10 @@
 
 * I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.
 * Given an image of a dog, my algorithm identifies an estimate of its breed.
+
 ![Sample Dog Output][image1]
-* If supplied an image of a human, my code infers the most nearly resembling dog breed
+* If supplied an image of a human, my code infers the most nearly resembling dog breed.
+
 ![Sample Human Output][image2]
 
 ### Concepts:
