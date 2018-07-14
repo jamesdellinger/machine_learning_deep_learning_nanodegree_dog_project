@@ -1,9 +1,3 @@
-[//]: # (Image References)
-
-[image1]: ./images/sample_dog_output.png "Sample Dog Output"
-[image2]: ./images/sample_human_output.png "Sample Human Output"
-[image3]: ./images/sample_cnn.png "Sample CNN"
-
 # Project: Convolutional Neural Network Classifier for dog breeds
 *Guess a dog's breed based on an image.*
 ### For Udacity's Machine Learning Engineer and Deep Learning Nanodegrees
@@ -14,7 +8,10 @@
 ### Overview:
 
 * I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.
-* I explored several state-of-the-art CNN models for image classification, ultimately using transfer learning to build my own classifier for dog images on top of a pre-trained [Inception v3](https://arxiv.org/abs/1512.00567) bottleneck.
+* I first architected my own convolutional neural network from scratch.
+
+    <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/my_cnn.png" height="170">     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/cnn_graphic.png" height="170">
+* I then explored several state-of-the-art CNN models designed for image classification, ultimately using transfer learning to build my own classifier for dog images on top of a pre-trained [Inception v3](https://arxiv.org/abs/1512.00567) bottleneck.
 * Given an image of a dog, my algorithm identifies an estimate of its breed:
 
     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/sample_dog_output.png" height="170">
@@ -24,7 +21,15 @@
 
 ### Concepts:
 
-*
+* Using OpenCV's implementation of [Haar feature-based cascade classifiers](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html) to detect human faces in images.
+* Convolutional Neural Network architectures (choosing number of filters, kernel size, stride, and padding).
+* Activation functions like relu and softmax.
+* Including maxpool layers to decrease dimensionality as network depth increases, and adding dropout layers, to minimize overfitting.
+* Flattening the network prior to including fully-connected layers.
+* Categorical crossentropy loss function.
+* Transfer learning.
+* Freezing the bottleneck features of a pre-trained InceptionV3 model to serve as an input layer of my final CNN's fully connected layer:
+    <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/my_final_cnn.png" height="170">
 
 ### My completed project is here:
 
