@@ -34,13 +34,13 @@
 
 ### My completed project:
 
-* [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/report.html) / [pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.pdf)
+* [ipython notebook](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_app.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/report.html) / [pdf version](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_app.pdf)
 
 ### Project Grading and Evaluation:
 
-* [Project Review](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_review.pdf)
+* [Project Review](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_project_review.pdf)
 
-* [Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_grading_rubric.pdf)
+* [Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_project_grading_rubric.pdf)
 
 ### Dependencies:
 
