@@ -29,6 +29,7 @@
 * Categorical crossentropy loss function.
 * Transfer learning.
 * Freezing the bottleneck features of a pre-trained InceptionV3 model to serve as an input layer of my final CNN's fully connected layer:
+
     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/my_final_cnn.png" height="170">
 
 ### My completed project is here:
