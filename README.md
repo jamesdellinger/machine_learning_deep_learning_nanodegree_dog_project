@@ -14,12 +14,13 @@
 ### Overview:
 
 * I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.
+* I explored several state-of-the-art CNN models for image classification, ultimately using transfer learning to build my own classifier for dog images on top of a pre-trained [Inception v3](https://arxiv.org/abs/1512.00567) bottleneck.
 * Given an image of a dog, my algorithm identifies an estimate of its breed.
 
-![Sample Dog Output][image1]
+    <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/sample_dog_output.png" height="100">
 * If supplied an image of a human, my code infers the most nearly resembling dog breed.
 
-![Sample Human Output][image2]
+    <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/sample_human_output.png" height="100">
 
 ### Concepts:
 
@@ -35,9 +36,6 @@
 
 * [Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_grading_rubric.pdf)
 
-## Project Overview
-
-Welcome to the Convolutional Neural Networks (CNN) project in the Machine Learning Nanodegree! In this project, you will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, your algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
 
 
