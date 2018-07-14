@@ -41,3 +41,9 @@
 * [Project Review](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_review.pdf)
 
 * [Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_project_grading_rubric.pdf)
+
+### Dependencies:
+
+* [requirements-gpu.txt](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/requirements/requirements-gpu.txt)
+
+* [Anaconda .yml file](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/requirements/dog-linux-gpu.yml)
