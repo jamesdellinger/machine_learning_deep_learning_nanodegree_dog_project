@@ -3,7 +3,7 @@
 ### For Udacity's Machine Learning Engineer and Deep Learning Nanodegrees
 <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/mlndlogo.png" height="140">     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dlndlogo.png" height="140">
 
-### Topic: Deep Learning
+### Topic: Deep Learning / Convolutional Networks
 
 ### Overview:
 
@@ -32,7 +32,7 @@
 
     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/my_final_cnn.png" height="170">
 
-### My completed project is here:
+### My completed project:
 
 * [ipython notebook](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/report.html) / [pdf version](https://github.com/jamesdellinger/machine_learning_nanodegree_dog_project/blob/master/dog_app.pdf)
 
