@@ -31,6 +31,8 @@ Topic: Deep Learning / Convolutional Networks.
 * Freezing the bottleneck features of a pre-trained InceptionV3 model to serve as an input layer of my final CNN's fully connected layer:
 
     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/my_final_cnn.png" height="170">
+* Keras
+* TensorFlow
 
 ## My Completed Project
 * [ipython notebook](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_app.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/report.html) / [pdf version](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_app.pdf)
