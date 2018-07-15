@@ -7,8 +7,7 @@ For Udacity's [Machine Learning Engineer](https://www.udacity.com/course/machine
 
 Topic: Deep Learning / Convolutional Networks.
 
-## Overview:
-
+## Overview
 * I built a pipeline that can be used within a web or mobile app to process real-world, user-supplied images.
 * I first architected my own convolutional neural network from scratch:
 
@@ -21,8 +20,7 @@ Topic: Deep Learning / Convolutional Networks.
 
     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/sample_human_output.png" height="170">
 
-## Concepts:
-
+## Concepts
 * Using OpenCV's implementation of [Haar feature-based cascade classifiers](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html) to detect human faces in images.
 * Convolutional Neural Network architectures (choosing number of filters, kernel size, stride, and padding).
 * Activation functions like relu and softmax.
@@ -34,18 +32,15 @@ Topic: Deep Learning / Convolutional Networks.
 
     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/images/my_final_cnn.png" height="170">
 
-## My completed project:
-
+## My Completed Project
 * [ipython notebook](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_app.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/report.html) / [pdf version](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_app.pdf)
 
-## Project Grading and Evaluation:
-
+## Project Grading and Evaluation
 * [Project Review](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_project_review.pdf)
 
 * [Project Grading Rubric](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dog_project_grading_rubric.pdf)
 
-## Dependencies:
-
+## Dependencies
 * [requirements-gpu.txt](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/requirements/requirements-gpu.txt)
 
 * [Anaconda .yml file](https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/requirements/dog-linux-gpu.yml)
