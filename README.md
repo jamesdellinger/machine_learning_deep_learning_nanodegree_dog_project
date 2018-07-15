@@ -3,9 +3,9 @@
 
 <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/mlndlogo.png" height="140">     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dlndlogo.png" height="140">
 
-For Udacity's Machine Learning Engineer and Deep Learning Nanodegrees
+For Udacity's [Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t) and [Deep Learning](https://www.udacity.com/course/deep-learning-nanodegree--nd101) Nanodegrees.
 
-Topic: Deep Learning / Convolutional Networks
+Topic: Deep Learning / Convolutional Networks.
 
 ## Overview:
 
