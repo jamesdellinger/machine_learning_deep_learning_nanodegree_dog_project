@@ -1,7 +1,7 @@
 # Project: Convolutional Neural Network Classifier for dog breeds
 *Guess a dog's breed based on an image.*
 ### For Udacity's Machine Learning Engineer and Deep Learning Nanodegrees
-### Topic: Deep Learning / Convolutional Networks
+Topic: Deep Learning / Convolutional Networks
 <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/mlndlogo.png" height="140">     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dlndlogo.png" height="140">
 
 
