@@ -2,9 +2,10 @@
 *Guess a dog's breed based on an image.*
 
 <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/mlndlogo.png" height="140">     <img src="https://github.com/jamesdellinger/machine_learning_deep_learning_nanodegree_dog_project/blob/master/dlndlogo.png" height="140">
-For Udacity's Machine Learning Engineer and Deep Learning Nanodegrees
-Topic: Deep Learning / Convolutional Networks
 
+For Udacity's Machine Learning Engineer and Deep Learning Nanodegrees
+
+Topic: Deep Learning / Convolutional Networks
 
 ## Overview:
 
